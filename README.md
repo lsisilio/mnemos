@@ -27,7 +27,7 @@ The whole thing runs in a browser — no installs needed for the person being in
 
 ## Try it
 
-> Live demo: _link coming soon_
+> Live demo: (https://mnemos-sisilio.streamlit.app/)
 
 ---
 
